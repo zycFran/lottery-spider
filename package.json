@@ -1,0 +1,17 @@
+{
+  "name": "lottery-spider",
+  "version": "1.0.0",
+  "description": "彩票爬虫",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.9.5",
+    "node-schedule": "^1.1.0",
+    "superagent": "^0.20.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yongcai.zhou",
+  "license": "MIT"
+}
